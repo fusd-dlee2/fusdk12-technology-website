@@ -2,6 +2,8 @@ body {
     max-width: 1150px;
     width: 100%;
     margin: 0 auto;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 h1 {
