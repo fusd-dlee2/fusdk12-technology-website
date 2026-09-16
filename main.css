@@ -1,0 +1,42 @@
+:root {
+    --fusd-blue: #17438E;
+    --fusd-grey: #EEEEEF;
+}
+
+.main-body {
+    max-width: 1150px;
+    width: 85%;
+    margin: 0px auto;
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-size: 29pt;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16pt;
+    font-weight: bold;
+    color: var(--fusd-blue);
+}
+
+h3 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    color: var(--fusd-blue);
+}
+
+p, ul, th, td {
+    font-family: "Open Sans", sans-serif;
+}
+
+p, ul {
+    font-size: 13pt;
+}
+
+li {
+    padding-bottom: 15px;
+}
