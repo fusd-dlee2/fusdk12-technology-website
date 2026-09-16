@@ -17,6 +17,13 @@ h2 {
     color: #17438E;
 }
 
+h3 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    color: #17438E;
+}
+
 p, ul, th, td {
     font-family: "Open Sans", sans-serif;
 }
