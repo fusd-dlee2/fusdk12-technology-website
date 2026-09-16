@@ -1,3 +1,8 @@
+:root {
+    --fusd-blue: #17438E;
+    --fusd-grey: #EEEEEF;
+}
+
 body {
     max-width: 1150px;
     width: 100%;
@@ -14,14 +19,14 @@ h2 {
     font-family: "Open Sans", sans-serif;
     font-size: 16pt;
     font-weight: bold;
-    color: #17438E;
+    color: var(--fusd-blue);
 }
 
 h3 {
     font-family: "Open Sans", sans-serif;
     font-size: 14pt;
     font-weight: bold;
-    color: #17438E;
+    color: var(--fusd-blue);
 }
 
 p, ul, th, td {
