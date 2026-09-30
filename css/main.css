@@ -13,9 +13,10 @@
 }
 
 h1 {
-    font-family: "Oswald", sans-serif;
-    font-size: 29pt;
-    font-weight: normal;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+    color: var(--fusd-blue);
 }
 
 h2 {
